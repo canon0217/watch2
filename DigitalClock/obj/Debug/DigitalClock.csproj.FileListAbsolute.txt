@@ -1,0 +1,11 @@
+C:\Users\Toshiaki Okano\source\repos\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+C:\Users\Toshiaki Okano\source\repos\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Users\Toshiaki Okano\source\repos\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Users\Toshiaki Okano\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csprojAssemblyReference.cache
+C:\Users\Toshiaki Okano\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+C:\Users\Toshiaki Okano\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+C:\Users\Toshiaki Okano\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+C:\Users\Toshiaki Okano\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\Toshiaki Okano\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Users\Toshiaki Okano\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
+C:\Users\Toshiaki Okano\source\repos\DigitalClock\DigitalClock\obj\Debug\DigitalClock.UserControl1.resources
